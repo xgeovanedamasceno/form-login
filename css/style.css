@@ -46,7 +46,7 @@ html {
 /* header */
 
 .header {
-  background-color: #fff159;
+  background-color: #ff6363;
   padding: 15px 0;
 }
 
@@ -72,14 +72,14 @@ html {
 }
 
 .banner {
-  background-color: #fff159;
+  background-color: #ff6363;
   height: 180px;
 }
 
 /* backpage */
 
 .back-form {
-  background-color: #ededed;
+  background-color: #fff1f1;
 }
 
 /* form */
@@ -120,8 +120,8 @@ html {
 .login button {
   margin-bottom: 10px;
   padding: 16px 0;
-  background-color: #3483fa;
-  border-color: #3483fa;
+  background-color: #4ab9ff;
+  border-color: #4ab9ff;
   border-radius: 6px;
   border-style: none;
   color: #fff;
@@ -129,7 +129,7 @@ html {
 }
 
 .login button:hover {
-  background-color: #246ad4;
+  background-color: #40a8e9;
 }
 
 .login .create-account {
