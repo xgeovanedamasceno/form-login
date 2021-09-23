@@ -1,2 +1,2 @@
-# form-login
-Simples página de longin aplicando as propriedades básicas de posicionamento (float and clearfix) e media queries CSS.
+# Simples Design de Formulário de Login
+Simples página de login aplicando as propriedades básicas CSS de posicionamento e media queries.
